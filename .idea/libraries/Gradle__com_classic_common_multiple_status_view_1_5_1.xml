@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.classic.common:multiple-status-view-1.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/multiple-status-view-1.5.1.aar/a73a54e4ba26e698b7552d51e0b53b57/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/multiple-status-view-1.5.1.aar/a73a54e4ba26e698b7552d51e0b53b57/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/com.classic.common/multiple-status-view/1.5.1/affe35b052585222fb7c16321160071811584a45/multiple-status-view-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
